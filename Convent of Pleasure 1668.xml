@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/xsl” href=“teibp.xsl”?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Convent of Pleasure. A Comedy</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="act">
+        <head>Act I.</head>
+        <div type="scene">
+          <head>Scene I.</head>
+          <stage type="entrance"> <move who="#gentlemen" type="entrance"></move> <emph rend="italics">[Enter Three</emph> Gentlemen.<emph rend="italics">]</emph></stage>
+          <sp who="#1Gent">
+            <speaker>First Gentleman</speaker>
+            <p>Tom, Where have you been, you look so sadly of it?</p>
+          </sp>
+          <sp who="2Gent">
+            <speaker>2 Gent</speaker>
+            <p>I have been at the Funeral of the <name type="person">Lord Fortunate</name>; who has left his Daugther, the <name type="person">Lady Happy, very rich having no other Daugther but her.</name></p>
+          </sp>
+          <sp who="#1Gent">
+            <speaker>1 Gent</speaker>
+            <p>If she be so rich, it will make us all Young Men, spend all our Wealth on fine Clothes, Coaches, and Lackies, to fet out our Wooing hopes.</p>
+          </sp>
+          <sp who="#3Gent">
+            <speaker>3 Gent</speaker>
+            <p>If all her Wooers be younger Brothers, as most of us Gallants are, we shall undo our selves upon bare hopes, without Probability: But is she hansome, <name type="person"><emph rend="italics">Tom</emph></name>?</p>
+          </sp>
+          <sp who="#2Gent">
+            <speaker>2 Gent</speaker>
+            <p>Yes, she is <orig>extream</orig> handsome, young, rich, and virtuous.</p>
+          </sp>
+          <sp who="#1Gent">
+            <speaker>1 Gent</speaker>
+            <p>Faith, that is too much for one Woman to possess.</p>
+          </sp>
+          <sp who="#2Gent">
+            <speaker>2 Gent</speaker>
+            <p>Not, if you were to have her.</p>
+          </sp>
+          <sp who="#1Gent">
+            <speaker>1 Gent</speaker>
+            <p>No, not for me; but in my Opinion too much for any other Man.</p>
+          </sp>
+          <stage type="exit"> <move who="#gentlemen" type="exit"></move><emph rend="italics">[Exeunt.]</emph></stage>
+        </div>
+        <div type="scene">
+          <head>Scente II.</head>
+          <stage type="entrance"> <move who="#lhappy and #servant" type="entrance"></move><emph rend="italics">[Enter the Lady</emph> Happy<emph rend="italics">, and one of her Attendants.]</emph></stage>
+          <sp who="#servant">
+            <speaker>Servant</speaker>
+            <p>Madam, you being young, hansome, rich, and virtuous, I hope you will not cast away those gifts of Nature, Fortune, and Heaven, upon a Person which cannot merit you?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Let me tell you, that Riches ougt to be bestowed on such as are poor, and want means to maintain themselves; and Youth, on those that are old, Beauty, on those that are ill-favoured; and Virtue, on those that are vicious: So that if I should place my gifts rightly, I must Marry one that's poor, old, ill-favoured, and debauch'd.</p>
+          </sp>
+          <sp who="#servant">
+            <speaker>Serv</speaker>
+            <p>Heaven forbid.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Nay, Heaven doth not allow of it, but commands it; for we are commanded to give to those that want.</p>
+          </sp>
+          <stage type="entrance"> <move who="#mediator" type="entrance" where="to the Lady Happy"></move><emph rend="italics">[Enter Madam</emph> Mediator <emph rend="italics">to the Lady</emph> Happy<emph rend="italics">.]</emph></stage>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Surely, Madam, you do but talk, and intend not to go where you say.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Yes, truly, my Words and Intentions go even together.</p>
+          </sp>
+          <sp who="#Mediat">
+            <speaker>Mediat</speaker>
+            <p>But surely you will no incloyster your self, as you say.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Why, what is there in the <orig>publick</orig> World that should invite me to live in it?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>More then if you should banish your self from it.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Put the case I should Marry the best of Men, if any best there be; yet would a Marry'd life have more crosses and sorrows then pleasure, freedom, or hapiness: nay Marriage to those that are virtuous is a greater restraint then a Monastery.  Or, should I take delight in Admirers? they might gaze on my Beauty, and praise my Wit, and I receive nothing from their eyes, nor lips; for Words vanish as soon as spoken, and Sights are not substantial.  Besides, I should lose more of my Reputation by their Visits, then gain by their Praises.  Or, should I quit Reputation and turn Courtizan, there would be more lost in my Health, then gained by my Lovers, I should find more pain then Pleasure; besides, the troubles and frights I should put to, with the Quarrels and Brouilleries that Jealous Rivals make, would be a torment to me: and 'tis only for the sake of Men, when Women retire not: And since there is so much folly, vanity and falshood in Men, why should Women trouble and vex themselves for their sake; for retiredness bars the life from nothing else but Men.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>O yes, for those that incloister themselves, bar themselves from all other worldly Pleasures.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>The more Fools they.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Will you call those Fools that do it for the gods sake?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>No Madam, it is not for the gods sake, but for opinion’s sake; for, Can any Rational Creature think or believe, the gods take delight in the Creature’s uneasie life? or, Did they command or give leave to Nature to make Senses for no use; or to cross, vex and pain them? for, What profit or pleasure can it be to the gods to have Men or Women wear coarse Linnen or rough Woollen, or to flea their skin with Hair-cloth, or to eat or sawe thorow their flesh with Cords? or, What profit or pleasure can it be to the gods to have Men eat more Fish then Flesh, or to fast? unless the gods did feed on such meat themselves; for then, for fear the gods should want it, it were fit for Men to abstein from it: The like for Garments, for fear the gods should want fine Clothes to adorn themselves, it were fit Men should not wear them: Or, what profit or pleasure can it be to the gods to have Men to lie uneasily on the hard ground, unless the gods and Nature were at variance, strife and wars; as if what is displeasing unto Nature, were pleasing to the gods, and to be enemies to her, were to be friends to them.</p>
+          </sp>
+          <sp who="#mediat">
+            <speaker>Mediat</speaker>
+            <p>But being done for the gods sake, it makes that which in Nature seems to be bad, in Divinity to be good.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>It cannot be good, if it be neither pleasure, nor profit to the gods; neither do Men any thing for the gods but their own sake.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>But when the Mind is not imployed with Vanities, nor the Senses with Luxury; the Mind is more free, to offer its Adorations, Prayers and Praises to the gods.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>I believe, the gods are better pleased with Praises then Fasting; but when the Senses are dull’d with abstinency, the Body weakned with fasting, the Spirits tir’d with watching, the Life made uneasie with pain, the Soul can have but little will to worship: only the Imagination doth frighten it into active zeal, which devotion is rather forced then voluntary; so that their prayers rather flow out of their mouth, then spring from their heart, like rain-water that runs thorow Gutters, or like Water that’s forced up a Hill by Artificial Pipes and Cisterns. But those that pray not unto the gods, or praise them more in prosperity then adversity, more in pleasures then pains, more in liberty then restraint, deserve neither the happiness of ease, peace, freedom, plenty and tranquillity in this World, nor the glory and blessedness of the next. And if the gods should take pleasure in nothing but in the torments of their Creatures, and would not prefer those those prayers that are offer’d with ease and delight, I should believe, the gods were cruel: and, What Creature that had reason or rational understanding, would serve cruel Masters, when they might serve a kind Mistress, or would forsake the service of their kind Mistress, to serve cruel Masters? Wherefore, if the gods be cruel, I will serve Nature; but the gods are bountiful, and give all, that’s good, and bid us freely please our selves in that which is best for us: and that is best, what is most temperately used, and longest may be enjoyed, for excess doth wast it self, and all it feeds upon.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>In my opinion your Doctrine, and your Intention do not agree together.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Why?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>You intend to live incloister'd and retired from the World.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>'Tis true, but not from pleasures; for, I intend to incloister my self from the World, to enjoy pleasure, and not to bury my self from it; but to incloister my self from the incumbred cares and vexations, troubles and perturbance of the World.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>But if you incloister your self, How will you enjoy the company of Men, whose conversation is thought the greatest Pleasure?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Men are the only troublers of Women; for they only cross and oppose their sweet delights, and peaceable life; they cause their pains, but not their pleasures. Wherefore those Women that are poor, and have not means to buy delights, and maintain pleasures, are only fit for Men; for having not means to please themselves, they must serve only to please others; but those Women, where Fortune, Nature, and the gods are joined to make them happy, were mad to live with Men, who make the Female sex their slaves; but I will not be so inslaved, but will live retired from their Company. Wherefore, in order thereto, I will take so many Noble Persons of my own Sex, as my Estate will plentifully maintain, such whose Births are greater then their Fortunes, and are resolv’d to live a single life, and vow Virginity: with these I mean to live incloister’d with all the delights and pleasures that are allowable and lawful; My Cloister shall not be a Cloister of restraint, but a place for freedom, not to vex the Senses but to please them.</p>
+            <lg type="stanza">
+              <l>For every Sense shall pleasure take,</l>
+              <l>And all our Lives shall merry make:</l>
+              <l>Our Minds in full delight shall joy,</l>
+              <l>Not vex'd with every idle Toy:</l>
+              <l>Each Season shall our Caterers be,</l>
+              <l>To search the Land, and Fish the Sea;</l>
+              <l>To gather Fruit and reap the Corn,</l>
+              <l>That's brought to us in Plenty's Horn;</l>
+              <l>With which we'l feast and please our <orig>tast</orig></l>
+              <l>But not luxorious make a <orig>wast</orig>.</l>
+              <l>Wee'l Cloth our selves with softest Silk,</l>
+              <l>And Linnen fine as white as milk.</l>
+              <l>Wee'l please our Sight with Pictures rare;</l>
+              <l>Our Nostrils with perfumed Air.</l>
+              <l>Our Ears with sweet melodious Sound,</l>
+              <l>Our <orig>Tast</orig> with swee delicious Meat,</l>
+              <l>And savory Sauces we will eat:</l>
+              <l>Variety each Sense shall feed,</l>
+              <l>And Change in them new Appetites breed.</l>
+              <l>Thus will in <emph rend="italics">Pleasure's Convent</emph> I</l>
+              <l>Live with delight, and with it die.</l>
+            </lg>
+          </sp>
+          <stage type="exit"><move type="exit"></move><emph rend="italics">[Exeunt.]</emph></stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Act II.</head>
+        <div type="scene">
+          <head>Scene I.</head>
+          <stage type="entrance"> <move who="#take-pleasure and #dick" type="entrance"></move> <emph rend="italics">[Enter Monsieur</emph> Take-pleasure.<emph rend="italics">and his Man</emph> Dick.<emph rend="italics">]</emph></stage>
+          <sp who="#take-pleasure">
+            <speaker>Monsieur Take-pleasure</speaker>
+            <p><emph rend="italics">Dick</emph>, Am I fine to day?</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>Yes, Sir, as fine as Feathers, Ribbons, Gold, and Silver can make you.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Dost through think I shall get the Lady Happy?</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>Not if it be her fortune to continue in that name.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Why?</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>Because if she Marry your Worship she must change her Name; for the Wife takes the Name of her Husband, and quits her own.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Faith, <emph rend="italics">Dick</emph>, if I had her wealth I should be <emph rend="italics">Happy</emph>.</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>It would be according as your Worship would use it; but, on my conscience, you would be more happy with the Ladie’s Wealth, then the Lady would be with your Worship.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Why should you think so?</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>Becasue Women never think themselves happy in Marriage.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>You are mistaken; for Women never think themselves happy until they be Married.</p>
+          </sp>
+          <sp who="#dick">
+            <speaker>Dick</speaker>
+            <p>The truth is, Sir, that Women are always unhappy in their thoughts, both before and after Marriage; for, before Marriage they think themselves unhappy for want of a Husband; and after they are Married, they think themselves unhappy for having a Husband.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Indeed Womens thoughts are restless.</p>
+          </sp>
+          <stage type="entrance"><move who="#Facil and #Adviser" type="entrance" where="to Monsieur Take-pleasure"></move><emph rend="italics">[Enter Monsieur</emph> Facil <emph rend="italics">and Monsieur</emph> Adviser, <emph rend="italics">to Monsieur</emph> Take-pleasure;<emph rend="italics"> all in their Wooing Accoustrements.]</emph></stage>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Gentlemen, I perceive you are all prepared to Woo.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Yes faith, we are all prepared to be Wooers. But whom shall we get to present us to the Lady Happy?</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>We must set on bold faces, and present our selves.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Faith, I would not give my hopes for an indifferent portion.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Nor I.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>The truth is, We are all stuft with Hopes, as Cushions are with Feather.</p>
+          </sp>
+          <stage type="entrance"><move who="#courtly" type="entrance"> </move><emph rend="italics">[Inter Monsieur Courtly.]</emph></stage>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>O Gentlemen, Gentlemen, we are all utterly undone.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Why, what's the matter?</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Why, the Lady Happy hath incloister'd her self, with twenty Ladies more.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>The Devil she hath?</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>The gods forbid.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Whether it was the devil or the gods that have perswaded her to it, I cannot tell; but gone in she is.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>I hope it is but a blast of Devotion, which sill soon flame out.</p>
+          </sp>
+          <stage type="entrance"> <move who="#mediator" type="entrance"></move><emph rend="italics">[Enter Madam Mediator.]</emph></stage>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>O Madam Mediator, we are all undone, the Lady Happy is incloister’d.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Yes, Gentlemen, the more is the pitty.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Is there no hopes?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Faith, little.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Let us see the Clergy to perswade her out, for the good of the Commonwealth.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Alas Gentlemen! they can do no good, for she is not a Votress to the gods but to Nature.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>If she be a Votress to Nature, you are the only Person fit to be Lady Prioress; and so by your power and authority you may give us leave to visit your Nuns sometimes.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>Not but at a Grate, unless in time of Building, or when they are sick; but howsoever, the Lady Happy is Lady-Prioress her self, and will admit none of the Masculine Sex, not so much as to a Grate, for she will suffer no grates about the Cloister; she has also Women-Physicians, Surgeons and Apothecaries, and she is the chief Confessor her self, and gives what Indulgences or Absolutions she pleaseth: Also, her House, where she hath made her Convent, is so big and convenient, and so strong, as it needs no addition or repair: Besides, she has so much compass of ground within her walls, as there is not only room and place enough for Gardens, Orchards, Walks, Groves, Bowers, Arbours, Ponds, Fountains, Springs and the like; but also conveniency for much Provision, and hath Women for every Office and Employment: for though she hath not above twenty Ladies with her, yet she hath a numerous Company of Female Servants, so as there is no occasion for Men.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>If there be so many Women, there will be the more use for Men: But pray Madam Mediator, give me leave, rightly to understand you, by being more clearly informed: you say, The Lady Happy is become a Votress to Nature; and if she be a Votress to Nature, she must be a Mistress to Men.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>By your favour, Sir, she declares, That she hath avoided the company of Men, by retirement, meerly, because she would enjoy the variety of Pleasures, which are in Nature; of which, she says, Men are Obstructers; for, instead of increasing Pleasure, they produce Pain, and, instead of giving Content, they increase Trouble; instead of making the Femal- Sex Happy, they make them Miserable; for which, she hath banished the Masculine Company for ever.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Her Heretical Opinions ought not to be suffer’d, nor her Doctrine allow’d; and she ought to be examined by a Masculine Synod, and punish’d with a severe Husband, or tortured with a deboist Husband.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>The best way, Gentlemen, is to make your Complaints, and put up a Petition to the State, with your desires for a Redress.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Your Counsel is good.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>We will follow it, and go presently about it.</p>
+          </sp>
+          <stage type="exit"> <move type="exit"></move><emph rend="italics">[Exeunt.]</emph></stage>
+        </div>
+        <div type="scene">
+          <head>Scene II.</head>
+          <stage type="entrance"> <move who="#lhappy with #ladies and #mediator" type="entrance"></move><emph rend="italics">[Enter the Lady Happy, with her Ladies; as also Madam Mediator.]</emph></stage>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Ladies, give me leave to desire your Confession, whether or no you repent your Retirement.</p>
+          </sp>
+          <sp who="#ladies">
+            <speaker>Ladies</speaker>
+            <p>Most excellent Lady, it were as probable a repentance could be in Heaven amongst Angels as amongst us.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Now Madam Mediator, let me ask you, Do you condemn my act of Retirement?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>Mediat</speaker>
+            <p>I approve of it with admiration and wonder, that one that is so young should be so wise.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Now give me leave to inform you, how I have order'd this our <emph rend="italics">Convent of Pleasure;</emph> first, I have such things as are for our Ease and Conveniency; next for Pleasure, and Delight; as I have change of Furniture, for my house; according to the four Seasons of the year, especially our Chambers: As in the Spring, our Chambers are hung with Silk-Damask, and all other things suitable to it; and a great Looking- Glass in each Chamber, that we may view our selves and take pleasure in our own Beauties, whilst they are fresh and young; also, I have in each Chamber a Cup- board of such plate, as is useful, and whatsoever is to be used is there ready to be imployed; also, I have all the Floor strew’d with sweet Flowers: In the Summer I have all our Chambers hung with Taffety, and all other things suitable to it, and a Cup-board of Purseline, and of Plate, and all the Floore strew’d every day with green Rushes or Leaves, and Cisterns placed neer our Beds-heads, wherein Water may run out of small Pipes made for that purpose: To invite repose in the Autumn, all our Chambers are hung with Gilt Leather, or Franchipane; also, Beds and all other things suitable; and the Rooms Matted with very fine Mats: In the Winter our Chambers must be hung with Tapestry, and our Beds of Velvet, lined with Sattin, and all things suitable to it, and all the Floor spread over with Turkie Carpets, and a Cup-board of Gilt Plate; and all the Wood for Firing to be Cypress and Juniper; and all the Lights to be Perfumed Wax; also, the Bedding and Pillows are ordered according to each Season; viz. to be stuft with Feathers in the Spring and Autumn, and with Down in the Winter, but in the Summer to be only Quilts, either of Silk, or fine Holland; and our Sheets, Pillows, Table-Clothes and Towels, to be of pure fine Holland, and every day clean; also, the Rooms we eat in, and the Vessels we feed withal, I have according to each Season; and the Linnen we use to our Meat, to be pure fine Diaper, and Damask, and to change it fresh every course of Meat: As for our Galleries, Stair-Cases, and Passages, they shall be hung with various Pictures; and, all along the Wall of our Gallery, as long as the Summer lasts, do stand, upon Pedestals, Flower-pots, with various Flowers; and in the Winter Orange-Trees: and my Gardens to be kept curiously, and flourish, in every Season of all sorts of Flowers, sweet Herbs and Fruits, and kept so as not to have a Weed in it, and all the Groves, Wildernesses, Bowers and Arbours pruned, and kept free from dead Boughs Branches or Leaves; and all the Ponds, Rivolets, Fountains, and Springs, kept clear, pure and fresh: Also, we will have the choisest Meats every Season doth afford, and that every day our Meat, be drest several ways, and our drink cooler or hotter according to the several Seasons; and all our Drinks fresh and pleasing: Change of Garments are also provided, of the newest fashions for every Season, and rich Trimming; so as we may be accoutred properly, and according to our several pastimes: and our Shifts shall be of the finest and purest Linnen that can be bought or spun.</p>
+          </sp>
+          <sp who="#ladies">
+            <speaker>Ladies</speaker>
+            <p>None in this World can be happier.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Now Ladies, let us go to our several Pastimes, if you please.</p>
+          </sp>
+          <stage type="exit"><emph rend="italics">[Exeunt.]</emph></stage>
+        </div>
+        <div type="scene">
+          <head>Scene III.</head>
+          <stage type="entrance"> <move who="#ladies" type="entrance"></move>[Enter Two Ladies.]</stage>
+          <sp who="#amorous">
+            <speaker>Lady Amorous</speaker>
+            <p>Madam, how do you, since you were Married?</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>Very well, I thank you.</p>
+          </sp>
+          <sp who="#amorous">
+            <speaker>L. Amor</speaker>
+            <p>I am not so well as I wish I were.</p>
+          </sp>
+          <stage type="entrance"> <move who="#mediator" where="to them" type="entrance"></move>[Enter Madam Mediator to them.]</stage>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Ladies, do you hear the News?</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>What News?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Why there is a great Foreign Princess arrived, hearing of the famous <emph rend="italics">Convent of Pleasure,</emph> to be one of Nature’s Devotes.</p>
+          </sp>
+          <sp who="#amorous">
+            <speaker>L. Amor</speaker>
+            <p>What manner of Lady is she?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>She is a Princely brave Woman truly, of a Masculine Presence.</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>But, Madam Mediator, Do they live in such Pleasure as you say? for they’l admit you, a Widow, although not us, by reason we are Wives.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>In so much Pleasure, as Nature never knew, before this Convent was: and for my part, I had rather be one in the <emph rend="italics">Convent of Pleasure,</emph> then Emperess of the whole World; for every Lady there enjoyeth as much Pleasure as any absolute Monarch can do, without the Troubles and Cares, that wait on Royalty; besides, none can enjoy those Pleasures They have, unless they live such a retired or retreated life free from the Worlds vexations.</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>Well, I wish I might see and know, what Pleasures they enjoy.</p>
+          </sp>
+          <sp who="mediator">
+            <speaker>M. Mediat</speaker>
+            <p>If you were there, you could not know all their Pleasure in a short time, for their Varieties will require a long time to know their several Changes; besides, their Pleasures and Delights vary with the Seasons; so that what with the several Seasons, and the Varieties of every Season, it will take up a whole life’s time.</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>But I could judg of their Changes by their single Principles.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>But they have Variety of one and the same kind.</p>
+          </sp>
+          <sp who="#vertue">
+            <speaker>L. Vertue</speaker>
+            <p>But I should see the way or manner of them.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>That you might.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene IV.</head>
+          <stage type="entrance"> <move type="entrance"></move>[Enter Monsieur Adviser, Courtly, Take-pleasure, and Facil.]</stage>
+          <sp who="#courtly">
+            <speaker>Monsieur Courtly</speaker>
+            <p>Is there no hopes to get those Ladies out of their <emph rend="italics">Convent</emph>?</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>No faith, unless we could set the <emph rend="italics">Convent</emph> on fire.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>For <emph rend="italics">Jupiter’s</emph> sake, let us do it, let’s every one carry a Fire-brand to fire it.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Yes, and smoak them out, as they do a Swarm of Bees.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Let’s go presently about it.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Stay, there is a great Princess there.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>'Tis true, but when that Princess is gone, we will surely do it.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Yes, and be punish'd for our Villany.</p>
+          </sp>
+          <sp who="take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>It will not prove Villany, for we shall do Nature good service.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Why, so we do Nature good service, when we get a Wench with Child, but yet the Civil Laws do punish us for it.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>They are not Civil Laws that punish Lovers.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>But those are Civil Laws that punish Adulterers.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Those are Barbarous Laws that make Love Adultery.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>No, Those are Barbarous that make Adultery Love.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Well, leaving Love and Adultery, They are foolish Women that vex us with their Retirement.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Well, Gentlemen, although we rail at the Lady Happy for Retiring, yet if I had such an Estate as she, and would follow her Example; I make no doubt but you would all be content to encloister your selves with me upon the same conditions, as those Ladies incloister themselves with her.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Not unless you had Women in your <emph rend="italics">Convent</emph>.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>Nay, faith, since Women can quit the pleasure of Men, we Men may well quit the trouble of Women.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>But is there no place where we may peak into the <emph rend="italics">Convent</emph>?</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>No, there are no Grates, but Brick and Stone-walls.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Let us get out some of the Bricks or Stones.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Alas! the Walls are a Yard-thick.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>But nothing is difficult to Willing-minds.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>My Mind is willing; but my Reason tells me, It is impossible; wherefore, I’le never go about it.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Faith, let us resolve to put our selves in Womens apparel, and so by that means get into the <emph rend="italics">Convent</emph>.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>We shall be discover'd.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>Who will discover Us?</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>We shall discover our Selves.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>We are not such fools as to betray our Selves.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>We cannot avoid it, for, our very Garb and Behaviour; besides, our Voices will discover us: for we are as untoward to make Courtsies in Petticoats, as Women are to make Legs in Breeches; and it will be as great a difficulty to raise our Voices to a Treble- sound, as for Women to press down their Voices to a Base; besides, We shall never frame our Eyes and Mouths to such coy, dissembling looks, and pritty simpering Mopes and Smiles, as they do.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>But we will go as strong lusty Country- Wenches, that desire to serve them in Inferiour Places, and Offices, as Cook-maids, Landry-maids, Dairy- maids, and the like.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>I do verily believe, I could make an indifferent Cook-maid, but not a Laundry, nor a Dairy- maid; for I cannot milk Cows, nor starch Gorgets, but I think I could make a pretty shift, to wash some of the Ladies Night-Linnen.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>But they imploy Women in all Places in their Gardens; and for Brewing, Baking and making all sorts of things; besides, some keep their Swine, and twenty such like Offices and Employments there are which we should be very proper for.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>O yes, for keeping of Swine belongs to Men; remember the Prodigal Son.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Faith, for our Prodigality we might be all Swin-heards.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Also we shall be proper for Gardens, for we can dig, and set, and sow.</p>
+          </sp>
+          <sp who="#take-pleasure">
+            <speaker>Takepl</speaker>
+            <p>And we are proper for Brewing.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>We are more proper for Drinking, for I can drink good Beer, or Ale, when ’tis Brew’d; but I could not brew such Beer, or Ale, as any man could drink.</p>
+          </sp>
+          <sp who="#facil">
+            <speaker>Facil</speaker>
+            <p>Come, come, we shall make a shift one way or other: Besides, we shall be very willing to learn, and be very diligent in our Services, which will give good and great content; wherefore, let us go and put these designes into execution.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Content, content.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Adviser</speaker>
+            <p>Nay, faith, let us not trouble our Selves for it, 'tis in vain.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Act III.</head>
+        <div type="scene">
+          <head>Scene I.</head>
+          <stage type="entrance"> <move who="#lhappy and #princess and #ladies" type="entrance"></move>[Enter the Princess, and the Lady Happy, with the rest of the Ladies belonging to the Convent.]</stage>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Madam, Your Highness has done me much Honour, to come from a Splendid Court to a retired <emph rend="italics">Convent</emph>.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Sweet Lady Happy, there are many, that have quit their Crowns and Power, for a Cloister of Restraint; then well may I quit a Court of troubles for a <emph rend="italics">Convent of Pleasure</emph>: but the greatest pleasure I could receive, were, To have your Friendship.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>I should be ungrateful, should I not be not only your Friend, but humble Servant.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>I desire you would be my Mistress, and I your Servant; and upon this agreement of Friendship I desire you will grant me one Request.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Any thing that is in my power to grant.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Why then, I observing in your several Recreations, some of your Ladies do accoustre Themselves in Masculine-Habits, and act Lovers-parts; I desire you will give me leave to be sometimes so accoustred and act the part of your loving Servant.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>I shall never desire to have any other loving Servant then your Self.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Nor I any other loving Mistress then Your- Self.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>More innocent Lovers never can there be,</l>
+              <l>Then my most Princely Lover, that's a She.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <lg type="stanza">
+              <l>Nor never Convent did such pleasures give,</l>
+              <l>Where Lovers with their Mistresses may live.</l>
+            </lg>
+          </sp>
+          <stage type="entrance"> <move who="#alady" type="entrance"></move>[Enter a Lady, asking whether they will see the Play.]</stage>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>May it please your Highness, the Play is ready to be Acted.</p>
+            <milestone unit="scene"/><note>[The Scene is opened, the Princess and LadyHappy sit down, and the Play is Acted within the Scene; the Princess and the LadyHappy being Spectators.]</note>
+          </sp>
+          <stage type="entrance"> <move who="#alady dressed like a man" type="entrance"></move>[Enter one drest like a Man that speaks the Prologue.]</stage>
+          <sp who="#alady">
+            <lg type="stanza">
+              <l>Noble Spectators, you shall see to night</l>
+              <l>A Play, which though't be dull, yet's short to sight;</l>
+              <l>For, since we cannot please your Ears with Wit,</l>
+              <l>We will not tyre your limbs, long here to fit.</l>
+            </lg>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Scene II.</head>
+          <stage type="entrance"> <move who="#women" type="entrance"></move>[Enter Two mean Women.]</stage>
+          <sp who="#woman1">
+            <speaker>First Woman</speaker>
+            <p>O Neighbour well met, where have you been?</p>
+          </sp>
+          <sp who="#woman2">
+            <speaker>2 Woman</speaker>
+            <p>I have been with my Neighbour the Cobler’s Wife to comfort her for the loss of her Husband, who is run away with Goody Mettle the Tinker’s Wife.</p>
+          </sp>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>I would to Heaven my Husband would run away with Goody Shredthe Botcher’s Wife, for he lies all day drinking in an Ale-house, like a drunken Rogue as he is, and when he comes home, he beats me all black and blew, when I and my Children are almost starved for want.</p>
+          </sp>
+          <sp who="#woman2">
+            <speaker>2 Woman</speaker>
+            <p>Truly Neighbour, so doth my Husband; and spends not only what he gets, but what I earn with the sweat of my brows, the whilst my Children cry for bread, and he drinks that away, that should feed my small Children, which are too young to work for themselves.</p>
+          </sp>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>But I will go, and pull my Husband out of the Ale-house, or I’le break their Lattice-windows down.</p>
+          </sp>
+          <sp who="woman2">
+            <speaker>2 Woman</speaker>
+            <p>Come, I’le go and help; for my Husband is there too: but we shall be both beaten by them.</p>
+          </sp>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>I care not: for I will not suffer him to be drunk, and I and my Children starve; I had better be dead.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div> 
+        <div type="scene">
+          <head>Scene III.</head>
+          <stage type="entrance"> <move who="#alady and #hermaid" type="entrance"></move>[Enter a Lady and her Maid.]</stage>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>Oh, I am sick!</p>
+          </sp>
+          <sp who="#hermaid">
+            <speaker>Maid</speaker>
+            <p>You are breeding a Child, Madam.</p>
+          </sp>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>I have not one minutes time of health.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene IV.</head>
+          <stage type="entrance"> <move who="#lady 1 and #lady2" type="entrance"></move>[Enter Two Ladies.]</stage>
+          <sp who="#lady1">
+            <speaker>First Lady</speaker>
+            <p>Why weep you, Madam?</p>
+          </sp>
+          <sp who="#lady2">
+            <speaker>2 Lady</speaker>
+            <p>Have I not cause to weep when my Husband hath play’d all his Estate away at Dice and Cards, even to the Clothes on his back?</p>
+          </sp>
+          <sp who="#lady1">
+            <speaker>1 Lady</speaker>
+            <p>I have as much cause to weep then as you; for, though my Husband hath not lost his Estate at play, yet he hath spent it amongst his Whores; and is not content to keep Whores abroad, but in my house, under my roof, and they must rule as chief Mistresses.</p>
+          </sp>
+          <sp who="#lady2">
+            <speaker>2 Lady</speaker>
+            <p>But my Husband hath not only lost his own Estate, but also my Portion; and hath forced me with threats, to yield up my Jointure, so that I must beg for my living, for any thing I know as yet.</p>
+          </sp>
+          <sp who="#lady1">
+            <speaker>1 Lady</speaker>
+            <p>If all Married Women were as unhappy as I, Marriage were a curse.</p>
+          </sp>
+          <sp who="#lady2">
+            <speaker>2 Lady</speaker>
+            <p>No doubt of it.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene V.</head>
+          <stage type="entrance"> <move who="#alady and #hermaid" where="running about the Stage" type="entrance"></move>[Enter a Lady, as almost distracted, running about the Stage, and her Maid follows her.]</stage>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>Oh! my Child is dead, my Child is dead, what shall I do, what shall I do?</p>
+          </sp>
+          <sp who="#hermaid">
+            <speaker>Maid</speaker>
+            <p>You must have patience, Madam.</p>
+          </sp>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>Who can have patience to lose their only Child? who can! Oh I shall run mad, for I have no patience.</p>
+          </sp>
+          <stage type="exit"> <move who="#alady and #hermaid" where="off the stage" type="exit"></move>[Runs off the Stage. Exit Maid after her.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene VI.</head>
+          <stage type="entrance"><move who="#citwife and #gent1 and #gent2" type="entrance"></move>Enter a Citizen’s Wife, as into a Tavern, where a Bush is hung out, and meets some Gentlemen there.</stage>
+          <sp who="#citwife">
+            <speaker>Citizen's Wife</speaker>
+            <p>Pray Gentlemen, is my Husband, Mr. Negligent here?</p>
+          </sp>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>He was, but he is gone some quarter of an hour since.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>Could he go, Gentlemen?</p>
+          </sp>
+          <sp who="#gent2">
+            <speaker>2 Gent</speaker>
+            <p>Yes, with a Supporter.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>Out upon him! must he be supported? Upon my credit Gentlemen, he will undo himself and me too, with his drinking and carelesness, leaving his Shop and all his Commodities at six’s and seven’s; and his Prentices and Journey-men are as careless and idle as he; besides, they cozen him of his Wares. But, was it a He or She-Supporter, my Husband was supported by?</p>
+          </sp>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>A She-supporter; for it was one of the Maid- servants, which belong to this Tavern.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>Out upon him Knave, must he have a She-supporter, in the Devil’s name? but I’le go and seek them both out with a Vengeance.</p>
+          </sp>
+          <sp who="#gent2">
+            <speaker>2 Gent</speaker>
+            <p>Pray, let us intreat your stay to drink a cup of Wine with us.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>I will take your kind Offer; for Wine may chance to abate Cholerick vapours, and pacifie the Spleen.</p>
+          </sp>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>That it will; for Wine and good Company are the only abaters of Vapours.</p>
+          </sp>
+          <sp who="#gent2">
+            <speaker>2 Gent</speaker>
+            <p>It doth not abate Vapours so much as cure Melancholy.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>In truth, I find a cup of Wine doth comfort me sometimes.</p>
+          </sp>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>It will cheer the Heart.</p>
+          </sp>
+          <sp who="#gent2">
+            <speaker>2 Gent</speaker>
+            <p>Yes, and enlighten the Understanding.</p>
+          </sp>
+          <sp who="#citwife">
+            <speaker>Cit. Wife</speaker>
+            <p>Indeed, and my understanding requires enlightening.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene VII.</head>
+          <stage type="entrance"><move who="#alady and #woman1 and #woman2" type="entrance"></move>[Enter a Lady big with Child, groaning as in labour, and a Company of Women with her.]</stage>
+         <sp who="#alady">
+           <p>Oh my back, my back will break, Oh! Oh! Oh!</p>
+         </sp>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>Is the Midwife sent for?</p>
+          </sp>
+          <sp who="#woman2">
+            <speaker>2 Woman</speaker>
+            <p>Yes, but she is with another Lady.</p>
+          </sp>
+          <sp who="#alady">
+            <speaker>Lady</speaker>
+            <p>Oh my back! Oh! Oh! Oh! <emph rend="italics">Juno,</emph> give me some ease.</p>
+          </sp>
+          <stage type="exit"></stage>
+        </div>
+        <div type="scene">
+          <head>Scene VIII.</head>
+          <stage type="entrance"><move who="#ancientlady1 and #ancientlady2" type="entrance"></move>[Enter two Ancient Ladies.]</stage>
+          <sp who="#ancientlady1">
+            <speaker>1 Lady</speaker>
+            <p>I have brought my Son into the World with great pains, bred him with tender care, much pains and great cost; and must he now be hang’d for killing a Man in a quarrel? when he should be a comfort and staff of my age, is he to be my ages affliction?</p>
+          </sp>
+          <sp who="#ancientlady2">
+            <speaker>2 Lady</speaker>
+            <p>I confess it is a great affliction; but I have had as great; having had but two Daughters, and them fair ones, though I say it, and might have matched them well: but one of them was got with Child to my great disgrace; th’ other run away with my Butler, not worth the droppings of his Taps.</p>
+          </sp>
+          <sp who="#ancientlady1">
+            <speaker>1 Lady</speaker>
+            <p>Who would desire Children, since they come to such misfortunes?</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene IX.</head>
+          <stage type="entrance"><move who="#woman1 and #woman2" type="entrance"></move>[Enter one Woman meeting another.]</stage>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>Is the Midwife come, for my Lady is in a strong labour?</p>
+          </sp>
+          <sp who="#woman2">
+            <speaker>2 Woman</speaker>
+            <p>No, she cannot come, for she hath been with a Lady that hath been in strong labour these three days of a dead child, and ’tis thought she cannot be delivered.</p>
+          </sp>
+          <stage type="entrance"><move who="#woman3" type="entrance"></move>[Enter another Woman.]</stage>
+          <sp who="#woman3">
+            <speaker>3 Woman</speaker>
+            <p>Come away, the Midwife is come.</p>
+          </sp>
+          <sp who="#woman1">
+            <speaker>1 Woman</speaker>
+            <p>Is the Lady deliver’d, she was withall?</p>
+          </sp>
+          <sp who="#woman3">
+            <speaker>3 Woman</speaker>
+            <p>Yes, of life; for she could not be delivered, and so she died.</p>
+          </sp>
+          <sp who="woman2">
+            <speaker>2 Woman</speaker>
+            <p>Pray tell not our Lady so: for, the very fright of not being able to bring forth a Child will kill her.</p>
+          </sp>
+          <stage type="exit"></stage>
+        </div>
+        <div type="scene">
+          <head>Scene X.</head>
+          <stage type="entrance"><move who="#gentleman and #fairyounglady" type="entrance"></move>[Enter a Gentleman who meets a fair Young Lady.]</stage>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>Madam, my Lord desires you to command whatsoever you please, and it shall be obey’d.</p>
+          </sp>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>I dare not command, but I humbly intreat, I may live quiet and free from his <emph rend="italics">Amours</emph>.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>He says he cannot live, and not love you.</p>
+          </sp>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>But he may live, and not lie with me.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>He cannot be happy, unless he enjoy you.</p>
+          </sp>
+          <sp who="fairyounglady">
+            <speaker>Lady</speaker>
+            <p>And I must be unhappy, if he should.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>He commanded me to tell you that he will part from his Lady for your sake.</p>
+          </sp>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>Heaven forbid, I should part Man and Wife.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>Lady, he will be divorced for your sake.</p>
+          </sp>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>Heaven forbid I should be the cause of a Divorce between a Noble Pair.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>You had best consent; for, otherwise he will have you against your will.</p>
+          </sp>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>I will send his Lordship an answer to morrow; pray him to give me so much time.</p>
+          </sp>
+          <sp who="#gentleman">
+            <speaker>Gent</speaker>
+            <p>I shall, Lady.</p>
+          </sp>
+          <stage type="exit"><move who="#gentleman" type="exit"></move>[Exit Gentleman.]</stage>
+          <stage>[Lady Sola.]</stage>
+          <sp who="#fairyounglady">
+            <speaker>Lady</speaker>
+            <p>I must prevent my own ruin, and the sweet virtuous Ladies, by going into a Nunnery; wherefore, I’le put my self into one to night:</p>
+            <lg type="stanza">
+              <l>There will I live, and serve the Gods on high,</l>
+              <l>And leave this wicked World and Vanity.</l>
+            </lg>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+          <stage type="entrance"><move who="#one" type="entrance"></move>[One enters and speaks the Epilogue.]</stage>
+          <sp who="#one">
+            <lg>
+              <l>Marriage is a Curse we find,</l>
+              <l>Especially to Women kind:</l>
+              <l>From the Cobler’s Wife we see,</l>
+              <l>To Ladies, they unhappie be.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <stage>[to the Princess]</stage>
+            <p>Pray Servant, how do you like this Play?</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>My sweet Mistress, I cannot in conscience approve of it; for though some few be unhappy in Marriage, yet there are many more that are so happy as they would not change their condition.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>O Servant, I fear you will become an Apostate.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Not to you sweet Mistress.</p>
+          </sp>
+          <stage type="exit"><move who="#lhappy and #princess" type="exit"></move>[Exeunt.]</stage>
+          <stage type="entrance"><move who="#gentlemen" type="entrance"></move>[Enter the Gentlemen.]</stage>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>There is no hopes of dissolving this <emph rend="italics">Convent of Pleasure</emph>.</p>
+          </sp>
+          <sp who="#gent2">
+            <speaker>2 Gent</speaker>
+            <p>Faith, not as I can perceive.</p>
+          </sp>
+          <sp who="#gent3">
+            <speaker>3 Gent</speaker>
+            <p>We may be sure, this <emph rend="italics">Convent</emph> will never be dissolved, by reason it is ennobled with the company of great Princesses, and glorified with a great Fame; but the fear is, that all the rich Heirs will make <emph rend="italics">Convents</emph>, and all the Young Beauties associate themselves in such <emph rend="italics">Convents</emph>.</p>
+          </sp>
+          <sp who="#gent1">
+            <speaker>1 Gent</speaker>
+            <p>You speak reason; wherefore, let us endeavour to get Wives, before they are Incloister’d.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Act IV.</head>
+        <div type="scene">
+          <head>Scene I.</head>
+          <stage type="entrance"><move who="#lhappy" type="entrance"></move>[Enter Lady Happy drest as a Shepherdess; She walks very Melancholy, then speaks as to her self.]</stage>
+          <sp who="#lhappy">
+            <p>My Name is Happy, and so was my Condition, before I saw this Princess; but now I am like to be the most unhappy Maid alive: But why may not I love a Woman with the same affection I could a Man?</p>
+            <lg>
+              <l>No, no, Nature is Nature, and still will be</l>
+              <l>The same she was from all Eternity.</l>
+            </lg>
+          </sp>
+          <stage type="entrance"><move who="#princess" type="entrance"></move>[Enter the Princess in Masculine Shepherd’s Clothes.]</stage>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>My dearest Mistress, do you shun my Company? is your Servant become an offence to your sight?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>No, Servant! your Presence is more acceptable to me then the Presence of our Goddess Nature, for which she, I fear will punish me, for loving you more then I ought to love you.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Can Lovers love too much?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Yes, if they love not well.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Can any Love be more vertuous, innocent and harmless then ours?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>I hope not.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Then let us please our selves, as harmless Lovers use to do.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>How can harmless Lovers please themselves?</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Why very well, as, to discourse, imbrace and kiss, so mingle souls together.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>But innocent Lovers do not use to kiss.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Not any act more frequent amongst us Women-kind; nay, it were a sin in friendship, should not we kiss: then let us not prove our selves Reprobates.</p>
+          </sp>
+          <stage>[They imbrace and kiss, and hold each other in their Arms.]</stage>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <lg type="stanza">
+              <l>These my Imbraces though of Femal kind,</l>
+              <l>May be as fervent as a Masculine mind.</l>
+            </lg>
+          </sp>
+          <stage><move who="#lhappy and #princess" where="go in scene"></move>[The Scene is open’d, the Princess and LadyHappy go in.
+          A Pastoral within the Scene.]</stage>
+          <stage>[The Scene is changed into a Green, or Plain, where Sheep are feeding, and a May-Pole in the middle.]</stage>
+          <stage>[LadyHappy as a Shepherdess, and the Princess as a Shepherd are sitting there.]</stage>
+          <stage type="entrance"><move who="#shepherd" type="entrance"></move>[Enter another Shepherd, and Wooes the Lady Happy.]</stage>
+          <sp who="#shepherd">
+            <speaker>Shepherd</speaker>
+            <lg type="stanza">
+              <l>Fair Shepherdess do not my Suit deny,</l>
+              <l>O grant my Suit, let me not for Love die:</l>
+              <l>Pity my Flocks, Oh save their Shepherd’s life;</l>
+              <l>Grant you my Suit, be you their Shepherd’s Wife.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>How can I grant to every ones request?</l>
+              <l>Each Shepherd’s Suit lets me not be at rest;</l>
+              <l>For which I wish, the Winds might blow them far,</l>
+              <l>That no Love-Suit might enter to my Ear.</l>
+            </lg>
+          </sp>
+          <stage type="entrance"><move who="#mediator #shepherdess" type="entrance"></move>[Enter Madam Mediator in a Shepherdess dress, and another Shepherd.]</stage>
+          <sp who="#shepherd">
+            <speaker>Sheph</speaker>
+            <lg type="stanza">
+              <l>Good Dame unto your Daughter speak for me.</l>
+              <l>Perswade her I your Son in Law may be:</l>
+              <l>I’le serve your Swine, your Cows bring home to Milk;</l>
+              <l>Attend your Sheep, whose Wool’s as soft as Silk;</l>
+              <l>I’le plow your Grounds, Corn I’le in Winter sow,</l>
+              <l>Then reap your Harvest, and your Grass I’le mow;</l>
+              <l>Gather your Fruits in Autumn from the Tree.</l>
+              <l>All this and more I’le do, if y’ speak for me.</l>
+            </lg>
+          </sp>
+          <sp who="#shepherdess">
+            <speaker>Shepherdess</speaker>
+            <lg type="stanza">
+              <l>My Daughter vows a single life,</l>
+              <l>And swears, she n’re will be a Wife;</l>
+              <l>But live a Maid, and Flocks will keep,</l>
+              <l>And her chief Company shall be Sheep.</l>
+            </lg>
+          </sp>
+          <stage>[The Princess as a Shepherd, speaks to the Lady Happy.]</stage>
+          <sp who="#princess">
+            <lg type="stanza">
+              <l>My Shepherdess, your Wit flies high,</l>
+              <l>Up to the Skie,</l>
+              <l>And views the Gates of Heaven,</l>
+              <l>Which are the Planets Seven;</l>
+              <l>Sees how fixt Stars are plac’d,</l>
+              <l>And how the Meteors wast;</l>
+              <l>What makes the Snow so white,</l>
+              <l>And how the Sun makes light;</l>
+              <l>What makes the biting Cold</l>
+              <l>On every thing take hold;</l>
+              <l>And Hail a mixt degree,</l>
+              <l>’Twixt Snow and Ice you see</l>
+              <l>From whence the Winds do blow;</l>
+              <l>What Thunder is, you know,</l>
+              <l>And what makes Lightning flow</l>
+              <l>Like liquid streams, you show.</l>
+              <l>From Skie you come to th’ Earth,</l>
+              <l>And view each Creature’s birth;</l>
+              <l>Sink to the Center deep,</l>
+              <l>Where all dead bodies sleep;</l>
+              <l>And there observe to know,</l>
+              <l>What makes the Minerals grow;</l>
+              <l>How Vegetables sprout,</l>
+              <l>And how the Plants come out;</l>
+              <l>Take notice of all Seed,</l>
+              <l>And what the Earth doth breed;</l>
+              <l>Then view the Springs below,</l>
+              <l>And mark how Waters flow;</l>
+              <l>What makes the Tides to rise</l>
+              <l>Up proudly to the Skies,</l>
+              <l>And shrinking back descend,</l>
+              <l>As fearing to offend.</l>
+              <l>Also your Wit doth view</l>
+              <l>The Vapour and the Dew,</l>
+              <l>In Summer’s heat, that Wet</l>
+              <l>Doth seem like the Earth’s Sweat;</l>
+              <l>In Winter-time, that Dew</l>
+              <l>Like paint’s white to the view,</l>
+              <l>Cold makes that thick, white, dry;</l>
+              <l>As Cerusse it doth lie</l>
+              <l>On th’ Earth’s black face, so fair</l>
+              <l>As painted Ladies are;</l>
+              <l>But, when a heat is felt,</l>
+              <l>That Frosty paint doth melt.</l>
+              <l>Thus Heav’n and Earth you view,</l>
+              <l>And see what’s Old, what’s New;</l>
+              <l>How Bodies Transmigrate,</l>
+              <l>Lives are Predestinate.</l>
+              <l>Thus doth your Wit reveal</l>
+              <l>What Nature would conceal.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>My Shepherd,</l>
+              <l>All those that live do know it,</l>
+              <l>That you are born a Poet,</l>
+              <l>Your Wit doth search Mankind,</l>
+              <l>In Body and in Mind;</l>
+              <l>The Appetites you measure,</l>
+              <l>And weigh each several Pleasure;</l>
+              <l>Do figure every Passion,</l>
+              <l>And every Humor’s fashion;</l>
+              <l>See how the Fancie’s wrought,</l>
+              <l>And what makes every Thought;</l>
+              <l>Fadom Conceptions low,</l>
+              <l>From whence Opinions flow;</l>
+              <l>Observe the Memorie’s length,</l>
+              <l>And Understanding’s strength</l>
+              <l>Your Wit doth Reason find,</l>
+              <l>The Centre of the Mind,</l>
+              <l>Wherein the Rational Soul</l>
+              <l>Doth govern and controul,</l>
+              <l>There doth she sit in State,</l>
+              <l>Predestinate by Fate,</l>
+              <l>And by the Gods Decree,</l>
+              <l>That Sovereign She should be.</l>
+              <l>And thus your Wit can tell,</l>
+              <l>How Souls in Bodies dwell;</l>
+              <l>As that the Mind dwells in the Brain,</l>
+              <l>And in the Mind the Soul doth raign,</l>
+              <l>And in the Soul the life doth last,</l>
+              <l>For with the Body it doth not wast;</l>
+              <l>Nor shall Wit like the Body die,</l>
+              <l>But live in the World’s Memory.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>May I live in your favour, and be possest with your Love and Person, is the height of my ambitions.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>I can neither deny you my Love nor Person.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <lg type="stanza">
+              <l>In amorous Pastoral Verse we did not Woo.</l>
+              <l>As other Pastoral Lovers use to doo.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Ha</speaker>
+            <lg type="stanza">
+              <l>Which doth express, we shall more constant be,</l>
+              <l>And in a Married life better agree.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <lg type="stanza">
+              <l>We shall agree, for we true Love inherit,</l>
+              <l>Join as one Body and Soul, or Heav’nly Spirit.</l>
+            </lg>
+          </sp>
+          <stage>[Here come Rural Sports, as Country Dances about the May-Pole: that Pair which Dances best is Crowned King and Queen of the Shepherds that year; which happens to the Princess, and the Lady Happy.]</stage>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <stage>[to the Princess]</stage>
+            <p>Let me tell you, Servant, that our Custome is to dance about this May-Pole, and that Pair which Dances best is Crown’d King and Queen of all the Shepherds and Shepherdesses this year: Which Sport if it please you we will begin.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>Nothing, Sweetest Mistress, that pleases you, can displease me.</p>
+            <stage>[They Dance; after the Dancing the Princess and Lady Happy are Crowned with a Garland of Flowers: a Shepherd speaks.]</stage>
+            <lg type="stanza">
+              <l>You’ve won the prize; and justly; so we all</l>
+              <l><orig>Acknowledg</orig> it with joy, and offer here</l>
+              <l>Our Hatchments up, our Sheep-hooks as your due,</l>
+              <l>And Scrips of Corduant, and Oaten pipe;</l>
+              <l>So all our Pastoral Ornaments we lay</l>
+              <l>Here at your Feet, with Homage to obay</l>
+              <l>All your Commands, and all these things we bring</l>
+              <l>In honour of our dancing Queen and King;</l>
+              <l>For Dancing heretofore has got more Riches</l>
+              <l>Then we can find in all our Shepherds Breeches;</l>
+              <l>Witness rich Holmby: Long then may you live,</l>
+              <l>And for your Dancing what we have we give.</l>
+            </lg>
+          </sp>
+          <stage>[A Wassel is carried about and Syllibubs.]</stage>
+          <stage>[Another Shepherd speaks, or Sings this that follows.]</stage>
+          <sp who="#shepherd">
+            <lg type="stanza">
+              <l>The Jolly Wassel now do bring,</l>
+              <l>With Apples drown’d in stronger Ale,</l>
+              <l>And fresher Syllibubs, and sing;</l>
+              <l>Then each to tell their Love-sick Tale:</l>
+              <l>So home by Couples, and thus draw</l>
+              <l>Our selves by holy Hymen’s Law.</l>
+            </lg>
+          </sp>
+          <stage>[The Scene Vanishes.]</stage>
+          <stage type="entrance"><move who="#princess"></move>[Enter the Princess Sola, and walks a turn or two in a Musing posture, then views her Self, and speaks.]</stage>
+          <sp who="#princess">
+            <speaker>Prin</speaker>
+            <p>What have I on a Petticoat, Oh <emph rend="italics">Mars</emph>! thou God of War, pardon my sloth; but yet remember thou art a Lover, and so am I; but you will say, my Kingdom wants me, not only to rule, and govern it, but to defend it: But what is a Kingdom in comparison of a Beautiful Mistress? Base thoughts flie off, for I will not go; did not only a Kingdom, but the World want me.</p>
+          </sp>
+          <stage type="exit"><move who="#princess" type="exit"></move>[Exeunt.]</stage>
+          <stage type="entrance"><move who="#lhappy" type="entrance"></move>[Enter the Lady Happy Sola, and Melancholy, and after a short Musing speaks.]</stage>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>O Nature, O you gods above,</l>
+              <l>Suffer me not to fall in Love;</l>
+              <l>O strike me dead here in this place</l>
+              <l>Rather then fall into disgrace.</l>
+            </lg>
+          </sp>
+          <stage type="entrance"><move who="#mediator" type="entrance"></move>[Enter Madam Mediator.]</stage>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>What, Lady Happy, ſolitary alone! and Muſing like a diſconſolate Lover!</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>No, I was Meditating of Holy things.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Holy things! what Holy things?</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>Why, ſuch Holy things as the Gods are.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>By my truth, whether your Contemplation be of Gods or of Men, you are become lean and pale ſince I was in the <emph rend="italics">Convent</emph> laſt.</p>
+          </sp>
+          <stage type="entrance"><move who="#princess" type="entrance"></move>[Enter the Princess.]</stage>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Come my ſweet Miſtreſs, ſhall we go to our Sports and Recreations?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Beſhrew me, your Highneſs hath ſported too much I fear.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Why, Madam Mediator, ſay you ſo?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Becauſe the Lady Happy looks not well, ſhe is become pale and lean.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Madam Mediator, your eyes are become dim with Time; for my ſweet Miſtreſs appears with greater ſplendor then the God of Light.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>For all you are a great Princeſs, give me leave to tell you,</p>
+            <lg type="stanza">
+              <l>I am not ſo old, nor yet ſo blind,</l>
+              <l>But that I ſee you are too kind.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Well, Madam Mediator, when we return from our Recreations, I will ask your pardon, for ſaying, your eyes are dim, conditionally you will ask pardon for ſaying, my Miſtreſs looks not well.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+          <stage>The Scene is opened, and there is preſented a Rock as in the Sea, whereupon ſits the Princeſs and the Lady Happy; the Princeſs as the Sea-God Neptune, the Lady Happy as a Sea-Goddeſs: the reſt of the Ladies ſit ſomewhat lower, dreſt like Water-Nymphs; the Princeſs begins to ſpeak a Speech in Verſe, and after her the Lady Happy makes her Speech.</stage>
+          <sp who="#princess">
+            <lg type="stanza">
+              <l>I Am the King of all the Seas,</l>
+              <l>All Watry Creatures do me pleaſe,</l>
+              <l>Obey my Power and Command,</l>
+              <l>And bring me Preſents from the Land;</l>
+              <l>The Waters open their Flood-gates,</l>
+              <l>Where Ships do paſs, ſent by the Fates;</l>
+              <l>Which Fates do yearly, as May-Dew,</l>
+              <l>Send me a Tribute from <emph rend="italics">Peru,</emph></l>
+              <l>From other Nations beſides,</l>
+              <l>Brought by their Servants, Winds and Tides,</l>
+              <l>Ships fraught and Men to me they bring;</l>
+              <l>My Watery Kingdom lays them in.</l>
+              <l>Thus from the Earth a Tribute I</l>
+              <l>Receive, which ſhews my power thereby:</l>
+              <l>Beſides, my Kingdom’s richer far</l>
+              <l>Then all the Earth and every Star.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>I feed the Sun, which gives them light,</l>
+              <l>And makes them ſhine in darkeſt night,</l>
+              <l>Moiſt vapour from my breſt I give,</l>
+              <l>Which he ſucks forth, and makes him live,</l>
+              <l>Or elſe his Fire would ſoon go out,</l>
+              <l>Grow dark, or burn the World throughout.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <lg type="stanza">
+              <l>What Earthly Creature’s like to me,</l>
+              <l>That hath ſuch Power and Majeſtie?</l>
+              <l>My Palaces are Rocks of Stone,</l>
+              <l>And built by Nature’s hand alone;</l>
+              <l>No baſe, diſſembling, coz’ning Art</l>
+              <l>Do I imploy in any part,</l>
+              <l>In all my Kingdom large and wide,</l>
+              <l>Nature directs and doth provide</l>
+              <l>Me all Proviſions which I need,</l>
+              <l>And Cooks my Meat on which I feed.</l>
+            </lg>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <lg type="stanza">
+              <l>My Cabinets are Oyſter-ſhells,</l>
+              <l>In which I keep my Orient-Pearls,</l>
+              <l>To open them I uſe the Tide,</l>
+              <l>As Keys to Locks, which opens wide,</l>
+              <l>The Oyſter-ſhells then out I take;</l>
+              <l>Thoſe, Orient-Pearls and Crowns do make;</l>
+              <l>And modeſt Coral I do wear,</l>
+              <l>Which bluſhes when it touches air.</l>
+              <l>On Silver-Waves I ſit and ſing,</l>
+              <l>And then the Fiſh lie liſtening:</l>
+              <l>Then ſitting on a Rocky ſtone,</l>
+              <l>I comb my Hair with Fiſhes bone;</l>
+              <l>The whil’ſt <emph rend="italics">Apollo,</emph> with his Beams,</l>
+              <l>Doth dry my Hair from wat’ry ſtreams.</l>
+              <l>His Light doth glaze the Water’s face,</l>
+              <l>Make the large Sea my Looking-Glaſs;</l>
+              <l>So when I ſwim on Waters high,</l>
+              <l>I ſee my ſelf as I glide by:</l>
+              <l>But when the Sun begins to burn,</l>
+              <l>I back into my Waters turn,</l>
+              <l>And dive unto the bottom low:</l>
+              <l>Then on my head the Waters flow,</l>
+              <l>In Curled waves and Circles round;</l>
+              <l>And thus with Waters am I Crown’d.</l>
+            </lg>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <lg type="stanza">
+              <l>Beſides, within the Waters deep,</l>
+              <l>In hollow Rocks my Court I keep;</l>
+              <l>Of Amber-greece my Bed is made,</l>
+              <l>Whereon my ſofter Limbs are laid,</l>
+              <l>There take I Reſt; and whil’ſt I ſleep,</l>
+              <l>The Sea doth guard, and ſafe me keep</l>
+              <l>From danger; and, when I awake,</l>
+              <l>A Preſent of a Ship doth make.</l>
+              <l>No Prince on Earth hath more reſort,</l>
+              <l>Nor keeps more Servants in his Court;</l>
+              <l>Of Mare-maids you’re waited on,</l>
+              <l>And Mare-men do attend upon</l>
+              <l>My Perſon; ſome are <orig>Councellors</orig>,</l>
+              <l>Which order all my great Affairs;</l>
+              <l>Within my wat’ry Kingdom wide,</l>
+              <l>They help to rule, and ſo to guide</l>
+              <l>The Common-wealth; and are by me</l>
+              <l>Prefer’d unto an high degree.</l>
+              <l>Some Judges are, and Magiſtrates,</l>
+              <l>Decide each Cauſe, and end Debates;</l>
+              <l>Others, Commanders in the War;</l>
+              <l>And ſome to Governments prefer;</l>
+              <l>Others are <emph rend="italics">Neptun’s</emph> Prieſts which pray</l>
+              <l>And preach when is a Holy-day.</l>
+              <l>And thus with Method order I,</l>
+              <l>And govern all with Majeſty;</l>
+              <l>I am ſole Monarch of the Sea,</l>
+              <l>And all therein belongs to me.</l>
+            </lg>
+          </sp>
+          <stage>[A Sea-Nymph Sings this following Song.]</stage>
+          <sp who="#seanymph">
+            <lg type="stanza" n="1">
+              <l>We Watery Nymphs Rejoyce and Sing</l>
+              <l>About God Neptune our Sea’s King;</l>
+              <l>In Sea-green Habits, for to move</l>
+              <l>His God-head, for to fall in love.</l>
+            </lg>
+            <lg type="stanza" n="2">
+              <l>That with his Trident he doth ſtay</l>
+              <l>Rough foaming Billows which obay:</l>
+              <l>And when in Triumph he doth ſtride</l>
+              <l>His manag’d Dolphin for to ride.</l>
+            </lg>
+            <lg type="stanza" n="3">
+              <l>All his Sea-people to his wiſh,</l>
+              <l>From Whale to Herring ſubject Fiſh,</l>
+              <l>With Acclamations do attend him,</l>
+              <l>And pray’s more Riches ſtill to ſend him.</l>
+            </lg>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+          <stage>[The Scene Vanishes.]</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Act V.</head>
+        <div type="scene">
+          <head>Scene I.</head>
+          <stage type="entrance"><move who="#princess and #lhappy and #mediator" type="entrance"></move>[Enter the Princeſs and the Lady Happy; The Princeſs is in a Man’s Apparel as going to Dance; they Whiſper ſometime; ſometime; then the Lady Happy takes a Ribbon from her arm, and gives it to the Princeſs, who gives her another inſtead of that, and kiſſes her hand. They go in and come preſently out again with all the Company to Dance, the Muſick plays; And after they have Danced a little while, in comes Madam Mediator wringing her hands, and ſpreading her arms; and full of Paſſion cries out.]</stage>
+          <sp who="#mediator">
+            <p>O Ladies, Ladies! you’re all betrayed, undone, undone; for there is a man diſguiſed in the Convent, ſearch and you’l find it.</p>
+          </sp>
+          <stage>[They all skip from each other, as afraid of each other; only the Princeſs and the Lady Happy stand still together.]</stage>
+          <sp who="#princess">
+            <p>You may make the ſearch, Madam Mediator ; but you will quit me, I am ſure.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>By my faith but I will not, for you are moſt to be ſuſpected.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>ut you ſay, the Man is diſguiſed like a Woman, and I am accouſtred like a Man.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Fidle, fadle, that is nothing to the purpoſe.</p>
+          </sp>
+          <stage type="entrance"><move who="#embassador" type="entrance" where="to the Prince"></move>[Enter an Embaſſador to the Prince; the Embaſſador kneels, the Prince bids him riſe.]</stage>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>What came you here for?</p>
+          </sp>
+          <sp who="#embassador">
+            <speaker>Embass</speaker>
+            <p>May it pleaſe your Highneſs, The Lords of your Council ſent me to inform your Highneſs, that your Subjects are ſo diſcontented at your Abſence, that if your Highneſs do not return into your Kingdom ſoon, they’l enter this Kingdom by reaſon they hear you are here; and ſome report as if your Highneſs were reſtrained as Priſoner.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>So I am, but not by the State, but by this Fair Lady, who muſt be your Soveraigneſs.</p>
+          </sp>
+          <stage>[The Embaſſador kneels and kiſſes her Hand.]</stage>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>But ſince I am diſcover’d, go from me to the Councellors of this State, and inform them of my being here, as alſo the reaſon, and that I ask their leave I may marry this Lady; otherwiſe, tell them I will have her by force of Arms.</p>
+          </sp>
+          <stage type="exit"><move who="#embassador" type="exit"></move></stage>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>O the Lord! I hope you will not bring an Army, to take away all the Women; will you?</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>No, Madam Mediator, we will leave you behind us.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene II.</head>
+          <stage type="entrance"><move who="#mediator" type="entrance"></move>[Enter Madam Mediator lamenting and crying with a Handkerchief in her hand.]</stage>
+          <sp who="#mediator">
+            <p>O Gentlemen, that I never had been born, we’re all undone and loſt!</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>Why, what's the matter?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Matter? nay, I doubt, there’s too much Matter.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>How?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>How, never ſuch a Miſtake; why we have taken a Man for a Woman.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>Why, a Man is for a Woman.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Fidle fadle, I know that as well as you can tell me; but there was a young Man dreſt in Woman’s Apparel, and enter’d our Convent, and the Gods know what he hath done: He is mighty handſome, and that’s a great Temptation to Virtue; but I hope all is well: But this wicked World will lay aſperſion upon any thing or nothing; and therefore I doubt, all my ſweet young Birds are undone, the Gods comfort them. them.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>But could you never diſcover it? nor have no hint he was a Man?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>No truly, only once I ſaw him kiſs the Lady Happy; and you know Womens Kiſſes are unnatural, and me-thought they kiſſed with more alacrity then Women uſe, a kind of Titillation, and more Vigorous.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>Why, did you not then examine it?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Why, they would have ſaid, I was but an old jealous fool, and laught at me; but Experience is a great matter; If the Gods had not been merciful to me, he might have faln upon me.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Why, what if he had?</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Nay, if he had I care not: for I defie the Fleſh as much as I renounce the Devil, and the pomp of this wicked World; but if I could but have ſav’d my young ſweet Virgins, I would willingly have ſacrificed my body for them; for we are not born for our ſelves but for others.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>'Tis piouſly ſaid, truly, lovingly and kindly.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Nay, I have read the <emph rend="italics">Practice of Piety;</emph> but further they ſay, He is a Foreign Prince; and they ſay, They’re very hot.</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Why, you are Madam Mediator, you muſt mediate and make a Friendſhip.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p><orig>Ods</orig> body what do you talk of Mediation, I doubt they are too good Friends; Well, this will be news for Court, Town and Country, in private Letters, in the Gazette, and in abominable Ballets, before before it be long, and jeered to death by the pretending Wits; Wits; but, good Gentlemen, keep this as a Secret, and let not me be the Author, for you will hear abundantly of it before it be long.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>But, Madam Mediator, this is no Secret, it is known all the Town over, and the State is preparing to entertain the Prince.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Lord! to ſee how ill news will fly ſo ſoon abroad?</p>
+          </sp>
+          <sp who="#courtly">
+            <speaker>Court</speaker>
+            <p>Ill news indeed for us Wooers.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>We only wooed in Imagination but not in Reality.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>But you all had hopes.</p>
+          </sp>
+          <sp who="#adviser">
+            <speaker>Advis</speaker>
+            <p>We had ſo; but ſhe only has the fruition: for it is ſaid, the Prince and ſhe are agreed to Marry; and the State is ſo willing, as they account it an honour, and hope ſhall reap much advantage by the Match.</p>
+          </sp>
+          <sp who="#mediator">
+            <speaker>M. Mediat</speaker>
+            <p>Yes, yes; but there is an old and true Saying, There’s much between the Cup and the Lip.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+        </div>
+        <div type="scene">
+          <head>Scene III.</head>
+          <stage type="entrance"><move who="#princess, #lhappy, #magistrates, #hoboys, #bridalguests" type="entrance"></move>[Enter the Prince as Bridegroom, and the Lady Happy as Bride, hand in hand under a Canopy born over their heads by Men; the Magiſtrates march before, then the Hoboys; and then the Bridal-Gueſts, as coming from the Church, where they were Married.]</stage>
+          <stage>[All the Company bids them joy, they thank them.]</stage>
+          <sp who="#mediator">
+            <speaker>Madam Mediator</speaker>
+            <p>Although your Highneſs will not ſtay to feaſt with your Gueſts, pray Dance before you go.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>We will both Dance and Feaſt before we go; come Madam let us Dance, to pleaſe Madam Mediator.</p>
+          </sp> 
+          <stage>[The Prince and Princeſs Dance.]</stage>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Now, Noble Friends, Dance you; and the <emph rend="italics">Princeſs,</emph> and I, will reſt our ſelves.</p>
+          </sp>
+          <stage>[After they have Danced, the Lady Happy, as now Princeſs , ſpeaks to the Lady Vertue.]</stage>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <stage>[Speaks to Lady Vertue.]</stage>
+            <p>Lady Vertue, I perceive you keep <emph rend="italics">Mimick</emph> ſtill.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <stage>[to the Prince]</stage>
+            <p>Sir, this is the <emph rend="italics">Mimick</emph> I told you of.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <stage>[to Mimick.]</stage>
+            <p><emph rend="italics">Mimick,</emph> will you leave your Lady and go with me?</p>
+          </sp>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>I am a Married Man, and have Married my Ladies Maid <emph rend="italics">Nan,</emph> and ſhe will keep me at home do what I can; but you’ve now a Mimick of your own, for the <emph rend="italics">Prince</emph> has imitated a Woman.</p>
+          </sp>
+          <sp who="#lhappy">
+            <speaker>L. Happy</speaker>
+            <p>What you Rogue, do you call me a Fool?</p>
+          </sp>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>Not I, pleaſe your Highneſs, unleſs all Women be Fools.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Is your Wife a Fool?</p>
+          </sp>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>Man and Wife, 'tis ſaid, makes but one Fool.</p>
+          </sp>
+          <stage>[He Kneels to the Prince.]</stage>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>I have an humble Petition to your Highneſs.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Riſe; What Petition is that?</p>
+          </sp>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>That your Highneſs would be pleaſed to divide the <emph rend="italics">Convent</emph> in two equal parts; one for Fools, and th’ other for Married Men, as mad Men.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>I’le divide it for Virgins and Widows.</p>
+          </sp>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>That will prove a <emph rend="italics">Convent of Pleaſure</emph> indeed; but but they will never agree, eſpecially if there be ſome diſguiſed Prince amongſt them; but you had better beſtow it on old decrepit and bed-rid Matrons, and then it may be call’d the <emph rend="italics">Convent of Charity,</emph> if it cannot poſſibly be named the <emph rend="italics">Convent of Chaſtity</emph>.</p>
+          </sp>
+          <sp who="#princess">
+            <speaker>Princ</speaker>
+            <p>Well, to ſhew my Charity, and to keep your Wife’s Chaſtity, I’le beſtow my bounty in a Preſent, on the Condition you ſpeak the Epilogue. Come, Noble Friends, let us feaſt before we part.</p>
+          </sp>
+          <stage type="exit">[Exeunt.]</stage>
+          <stage>[Mimick Solus.]</stage>
+          <sp who="#mimick">
+            <speaker>Mimick</speaker>
+            <p>An Epilogue ſays he, the devil an Epilogue have I: let me ſtudy.</p>
+            <stage>[He queſtions and anſwers Himſelf.]</stage>
+            <p>I have it, I have it; No faith, I have it not; I lie, I have it, I ſay, I have it not; Fie <emph rend="italics">Mimick,</emph> will you lie? Yes, <emph rend="italics">Mimick,</emph> I will lie, if it be my pleaſure: But I ſay, it is gone; What is gone? The Epilogue; When had you it? I never had it; then you did not loſe it; that is all one, but I muſt ſpeak it, although I never had it; How can you ſpeak it, and never had it? I marry, that’s the queſtion; but words are nothing, and then an Epilogue is nothing, and ſo I may ſpeak nothing; Then nothing be my Speech.</p>
+            <stage>[He Speaks the Epilogue.]</stage>
+            <lg type="stanza">
+              <l>Noble Spectators by this Candle-light,</l>
+               <l>I know not what to ſay, but bid, Good Night:</l>
+               <l>I dare not beg Applauſe, our Poeteſs then</l>
+               <l>Will be enrag’d, and kill me with her Pen;</l>
+               <l>For ſhe is careleſs, and is void of fear;</l>
+               <l>If you diſlike her Play ſhe doth not care.</l>
+               <l>But I ſhall weep, my inward Grief ſhall ſhow</l>
+               <l>Through Floods of Tears, that through my Eyes will flow.</l>
+               <l>And ſo poor Mimick he for ſorrow die.</l>
+               <l>And then through pity you may chance to cry:</l>
+               <l>But if you pleaſe, you may a Cordial give,</l>
+               <l>Made up with Praiſe, and ſo he long may live.</l>
+            </lg>
+          </sp>
+          <p><emph rend="bold">Finis.</emph></p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <performance>
+        <castList>
+          <head>The Actors Names.</head>
+          <castItem>
+            <role>Three Gentlemen.</role>
+          </castItem>
+          <castItem>
+            <role>Lady Happy.</role>
+          </castItem>
+          <castItem>
+            <role>Madam Mediator.</role>
+          </castItem>
+          <castItem>
+            <role>Monsieur Take-pleasure, and Dick his Man.</role>
+          </castItem>
+          <castItem>
+            <role>Monsieur Facil.</role>
+          </castItem>
+          <castItem>
+            <role>Monsieur Adviser.</role>
+          </castItem>
+          <castItem>
+            <role>Monsieur Courtly.</role>
+          </castItem>
+          <castItem>
+            <role>Lady Amorous.</role>
+          </castItem>
+          <castItem>
+            <role>Lady Vertue.</role>
+          </castItem>
+          <castItem>
+            <role>The Princess.</role>
+          </castItem>
+          <castItem>
+            <role>Two mean Women.</role>
+          </castItem>
+          <castItem>
+            <role>A Lady, and her Maid.</role>
+          </castItem> 
+          <castItem>
+            <role>Two Ladies.</role>
+          </castItem> 
+          <castItem>
+            <role>A distracted Lady, and her Maid.</role>
+          </castItem> 
+          <castItem>
+            <role>A Citizen’s Wife</role>
+          </castItem>
+          <castItem>
+            <role>Two Ancient Ladies.</role>
+          </castItem> 
+          <castItem>
+            <role>A Gentleman and a Young Lady.</role>
+          </castItem> 
+          <castItem>
+            <role>A Shepherd.</role>
+          </castItem> 
+          <castItem>
+            <role>Sea-Nymphs.</role>
+          </castItem> 
+          <castItem>
+            <role>An Ambassador.</role>
+          </castItem> 
+        </castList>
+      </performance>
+    </back>
+  </text>
+</TEI>
